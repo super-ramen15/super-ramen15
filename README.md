@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @super-ramen15
+- 👋 Hi, I’m @super-ramen15 aka Subbu
 - 👀 I’m interested in learning coding and do your accounts if you please  
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate with new learners
