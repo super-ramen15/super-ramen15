@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @super-ramen15
-- 👀 I’m interested in learning coding  
+- 👀 I’m interested in learning coding and do your accounts if you please  
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate with new learners
 - 📫 I can be reached on ssubbaraman15@gmail.com
